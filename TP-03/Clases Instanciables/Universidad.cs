@@ -120,8 +120,8 @@ namespace Clases_Instanciables
         {
             Xml<Universidad> archXml = new Xml<Universidad>();
 
-            //El archivo estará ubicado a la misma altura que las carpetas de los proyectos.
-            return archXml.Guardar(@"..\..\..\Universidad.xml", uni);
+            //El archivo se guardara por defecto en TestEntidades/bin/Debug
+            return archXml.Guardar("Universidad.xml", uni);
         }
 
 
@@ -134,8 +134,8 @@ namespace Clases_Instanciables
             Xml<Universidad> archXml = new Xml<Universidad>();
             Universidad universidad =new Universidad();
 
-            //El archivo estará ubicado a la misma altura que las carpetas de los proyectos.
-            archXml.Leer(@"..\..\..\Universidad.xml", out universidad);
+            //El archivo estará ubicado en TestEntidades/bin/Debug
+            archXml.Leer("Universidad.xml", out universidad);
 
             return universidad;
         }

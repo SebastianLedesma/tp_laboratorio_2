@@ -156,8 +156,8 @@ namespace Clases_Instanciables
         {
             Texto archTexto = new Texto();
 
-            //El archivo se guardará a la misma altura que las carpetas de los proyectos.
-            return archTexto.Guardar(@"..\..\..\Jornada.txt", j.ToString());
+            //El archivo se guardará por defecto en TestEntidades/bin/Debug
+            return archTexto.Guardar("Jornada.txt", j.ToString());
         }
 
 
@@ -170,8 +170,8 @@ namespace Clases_Instanciables
             Texto archTexto = new Texto();
             string datos = "";
 
-            //El archivo se guardará a la misma altura que las carpetas de los proyectos.
-            archTexto.Leer(@"..\..\..\Jornada.txt", out datos);
+            //El archivo estará ubucado en TestEntidades/bin/Debug
+            archTexto.Leer("Jornada.txt", out datos);
 
             return datos;
         }
