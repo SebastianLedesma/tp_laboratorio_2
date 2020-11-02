@@ -1,0 +1,9 @@
+C:\Users\ricardo\Desktop\TP-03\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\ricardo\Desktop\TP-03\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\ricardo\Desktop\TP-03\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\ricardo\Desktop\TP-03\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\ricardo\Desktop\TP-03\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\ricardo\Desktop\TP-03\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\ricardo\Desktop\TP-03\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\ricardo\Desktop\TP-03\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+C:\Users\ricardo\Desktop\TP-03\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
