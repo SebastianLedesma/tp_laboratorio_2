@@ -1,0 +1,14 @@
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A.TP4\TestConsola\bin\Debug\TestConsola.exe.config
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A.TP4\TestConsola\bin\Debug\TestConsola.exe
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A.TP4\TestConsola\bin\Debug\TestConsola.pdb
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A.TP4\TestConsola\bin\Debug\Entidades.dll
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A.TP4\TestConsola\bin\Debug\Excepciones.dll
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A.TP4\TestConsola\bin\Debug\Interfaces.dll
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A.TP4\TestConsola\bin\Debug\Entidades.pdb
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A.TP4\TestConsola\bin\Debug\Excepciones.pdb
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A.TP4\TestConsola\bin\Debug\Interfaces.pdb
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A.TP4\TestConsola\obj\Debug\TestConsola.csprojAssemblyReference.cache
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A.TP4\TestConsola\obj\Debug\TestConsola.csproj.CoreCompileInputs.cache
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A.TP4\TestConsola\obj\Debug\TestConsola.csproj.CopyComplete
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A.TP4\TestConsola\obj\Debug\TestConsola.exe
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A.TP4\TestConsola\obj\Debug\TestConsola.pdb

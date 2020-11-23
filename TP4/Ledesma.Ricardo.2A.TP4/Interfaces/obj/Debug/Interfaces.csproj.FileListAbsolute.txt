@@ -1,0 +1,6 @@
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A.TP4\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A.TP4\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A.TP4\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A.TP4\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A.TP4\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\ricardo\Desktop\Ledesma.Ricardo.2A.TP4\Interfaces\obj\Debug\Interfaces.pdb
